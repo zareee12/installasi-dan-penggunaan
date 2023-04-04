@@ -1,9 +1,4 @@
-# End-to-End Schema
-![pipeline](https://user-images.githubusercontent.com/98518827/229811525-ec80d440-870e-451e-9ed3-1c985386acf1.jpeg)
-
-
-
-## General Installation Guide
+### Installation and Usage Guidelines
 
 ====================
 - Prerequisite:
@@ -14,11 +9,13 @@
     
     C. Google's Credential Service Account used for GCS and Bigquery access: [Get Here](https://developers.google.com/workspace/guides/create-credentials)
     
-    D. Kafka: [Install Here]([https://docs.getdbt.com/docs/get-started/pip-install](https://kafka.apache.org/quickstart))
+    D. Kafka: [Install Here] ([https://docs.getdbt.com/docs/get-started/pip-install](https://kafka.apache.org/quickstart))
     
-    E. Airflow : [Install Here]([https://docs.docker.com/engine/install/ubuntu/](https://airflow.apache.org/docs/apache-airflow/stable/installation/index.html))
+    E. Airflow : [Install Here] ([https://docs.docker.com/engine/install/ubuntu/](https://airflow.apache.org/docs/apache-airflow/stable/installation/index.html))
     
-    ### Penggunaan
+### Usage Guideline 
+![Data Pipeline Graph-](https://user-images.githubusercontent.com/98518827/229811511-20bb9efa-b022-4680-81d9-63ff0a09d707.png)
+
 End-to-end data pipeline is the process of collecting data from multiple sources, cleaning, processing, and entering it into a system that can be used for analysis.
 
 Cloud Storage: Initial data will be stored in cloud storage. Here, data can be stored in various formats such as CSV, JSON, or parquet.
