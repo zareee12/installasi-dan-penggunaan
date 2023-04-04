@@ -1,5 +1,5 @@
 # End-to-End Schema
-(tambah gambar data pipeline)
+![pipeline](https://user-images.githubusercontent.com/98518827/229811525-ec80d440-870e-451e-9ed3-1c985386acf1.jpeg)
 
 
 
